@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "model": "AIR MAX 90 EZ BLACK",
+    "oldPrice": 149,
+    "currentPrice": 199,
+    "images": [
+      "assets/images/shoes1_1.png",
+      "assets/images/shoes1_2.png",
+      "assets/images/shoes1_3.png"
+    ],
+    "modelNumber": 90,
+    "color": 4294309110,
+    "created_at": "2021-11-11T06:00:00.000000Z",
+    "updated_at": "2021-11-11T06:00:00.000000Z"
+  },
+
+{
+  "id": 2,
+  "model": "AIR MAX 95 RED",
+  "oldPrice": 349,
+  "currentPrice": 299,
+  "images": [
+    "assets/images/shoes2_1.png",
+    "assets/images/shoes2_2.png",
+    "assets/images/shoes2_3.png"
+  ],
+  "modelNumber": 95,
+  "color": 4294964715,
+  "created_at": "2021-11-11T06:00:00.000000Z",
+  "updated_at": "2021-11-11T06:00:00.000000Z"
+},
+{
+  "id": 3,
+  "model": "AIR MAX 270 GOLD",
+  "oldPrice": 260,
+  "currentPrice": 150,
+  "images": [
+    "assets/images/shoes3_1.png",
+    "assets/images/shoes3_2.png",
+    "assets/images/shoes3_3.png"
+  ],
+  "modelNumber": 270,
+  "color": 4294962414,
+  "created_at": "2021-11-11T06:00:00.000000Z",
+  "updated_at": "2021-11-11T06:00:00.000000Z"
+},
+{
+  "id": 4,
+  "model": "AIR MAX 98 FREE",
+  "oldPrice": 410,
+  "currentPrice": 250,
+  "images": [
+    "assets/images/shoes4_1.png",
+    "assets/images/shoes4_2.png",
+    "assets/images/shoes4_3.png"
+  ],
+  "modelNumber": 98,
+  "color": 4294309110,
+  "created_at": "2021-11-11T06:00:00.000000Z",
+  "updated_at": "2021-11-11T06:00:00.000000Z"
+}
+]

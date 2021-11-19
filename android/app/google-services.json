@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85108794079",
+    "project_id": "shoes-app-9e8c2",
+    "storage_bucket": "shoes-app-9e8c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85108794079:android:131e0feff8f0a28dc57f6a",
+        "android_client_info": {
+          "package_name": "com.example.riverpod_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85108794079-79l34dccvijbrg7irh7962n39s0qekpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA1MVZHiLENIVGLEjecS0N8hJV-1N7nvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85108794079-79l34dccvijbrg7irh7962n39s0qekpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

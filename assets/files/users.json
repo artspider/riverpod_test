@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Arturo Rodriguez",
+    "email": "arturo.itiguala@gmail.com",
+    "phone": "7336880270",
+    "password": "1234567"
+  },
+
+  {
+    "name": "Alejandro Lopez",
+    "email": "alex@hotmail.com",
+    "phone": "7333331000",
+    "password": "1234567"
+  },
+
+  {
+    "name": "Agustina Martinez",
+    "email": "amartinez@gamil.com",
+    "phone": "7333320617",
+    "password": "1234567"
+  }
+]
